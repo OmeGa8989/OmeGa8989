@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Adhyan
 <div align="center">
-
-  <b>
-    <img src="https://readme-typing-svg.demolab.com?font=Momo+Trust+Display&size=23&pause=1000&color=F74A0C&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Adhyan+Aditya!;💻+Developer+%7C+Cloud+Enthusiast;☕+Gaming+%26+Coffee+Explorer;🚀+Building+Secure+AI+Projects!" alt="Typing SVG" />
-  </b>
-
+  <h1 style="color:#F74A0C; font-weight:bold;">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Momo+Trust+Display&size=23&pause=1000&color=F74A0C&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Adhyan+Aditya!;💻+Developer+%7C+Cloud+Enthusiast;☕+Gaming+%26+Coffee+Explorer;🚀+Building+Secure+AI+Projects!" 
+      alt="Typing SVG" 
+    />
+  </h1>
 </div>
-
-
 
 💻 Passionate about **AI, Cloud, and End-to-End Production**  
 🚀 Always exploring new technologies and building practical projects  
@@ -40,13 +39,12 @@
 
 ### 📊 Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmeGa8989&layout=compact&theme=radical)
-
 ---
+
 
 ### 🌍 Connect with Me  
 📫 **Email:** [adhyanaditya88@gmail.com](mailto:adhyanaditya88@gmail.com)  
 💼 **LinkedIn:** [www.linkedin.com/in/adhyan-aditya-a2a48124b/](www.linkedin.com/in/adhyan-aditya-a2a48124b/)  
 📝 **Articles:** [www.geeksforgeeks.org/user/adhyanaditya/contributions/](www.geeksforgeeks.org/user/adhyanaditya/contributions/)  
 ---
-
 ⭐ **“Turning ideas into impact through code, curiosity, and creativity.”**  
