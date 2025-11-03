@@ -1,19 +1,23 @@
-# 👋 Hi, I'm Adhyan 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&width=435&lines=👋+Hi%2C+I'm+Adhyan+Aditya!;💻+Developer+%7C+Cloud+Enthusiast;🤖+Gaming+%Coffe+Explorer;🚀+Building+Secure+AI+Projects!)](https://git.io/typing-svg)
+# 👋 Hi, I'm Adhyan
+<div align="center">
 
+  <b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Adhyan+Aditya!;💻+Developer+%7C+Cloud+Enthusiast;☕+Gaming+%26+Coffee+Explorer;🚀+Building+Secure+AI+Projects!" alt="Typing SVG" />
+  </b>
 
-🎓 **Computer & Communication Engineering Student**  
-💻 Passionate about **AI, Cybersecurity, Cloud, and Full-Stack Development**  
+</div>
+
+💻 Passionate about **AI, Cloud, and End-to-End Production**  
 🚀 Always exploring new technologies and building practical projects  
 
 ---
 
 ### 💡 About Me  
-- 🌱 Currently learning **Cloud Security & Generative AI**    
-- 🤖 Experienced with **Machine Learning, Flask, Streamlit, and TensorFlow**  
-- ☁️ Hands-on with **AWS (EC2, RDS, S3, CloudTrail, GuardDuty)**  
+- 🌱 Currently learning **Cloud Security & Agentic AI **    
+- 🤖 Experienced with **DSA**  
+- ☁️ Hands-on with **AWS**  
 - 🧠 Interested in **Production-Grade Development**  
-- 📚 Love writing technical articles on **Geeks For Geeks**  
+- ☕ Follow your heart, but take coffee with you
 
 ---
 
@@ -33,7 +37,7 @@
 ---
 
 ### 📊 GitHub Stats  
-![Adhyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmeGa8989OM&show_icons=true&theme=radical)  
+![Adhyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmeGa8989&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmeGa8989&layout=compact&theme=radical)
 
 ---
