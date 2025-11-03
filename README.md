@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Adhyan Aditya  
+# 👋 Hi, I'm Adhyan 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&width=435&lines=👋+Hi%2C+I'm+Adhyan+Aditya!;💻+Developer+%7C+Cloud+Enthusiast;🤖+Gaming+%Coffe+Explorer;🚀+Building+Secure+AI+Projects!)](https://git.io/typing-svg)
+
 
 🎓 **Computer & Communication Engineering Student**  
 💻 Passionate about **AI, Cybersecurity, Cloud, and Full-Stack Development**  
@@ -7,18 +9,17 @@
 ---
 
 ### 💡 About Me  
-- 🌱 Currently learning **Cloud Security & Generative AI**  
-- 🔭 Working on **Cyber Threat Intelligence Tool for Indian Cyberspace**  
+- 🌱 Currently learning **Cloud Security & Generative AI**    
 - 🤖 Experienced with **Machine Learning, Flask, Streamlit, and TensorFlow**  
 - ☁️ Hands-on with **AWS (EC2, RDS, S3, CloudTrail, GuardDuty)**  
-- 🧠 Interested in **AI-powered Security, AR/VR, and Deep Learning**  
-- 📚 Love writing technical articles on **software testing, Docker, Firebase, and AI**  
+- 🧠 Interested in **Production-Grade Development**  
+- 📚 Love writing technical articles on **Geeks For Geeks**  
 
 ---
 
 ### 🛠️ Tech Stack  
 #### 💻 Programming Languages  
-`C` | `C++` | `Java` | `Python` | `JavaScript`  
+`Java` | `Python` | `JavaScript`  
 
 #### 🌐 Web Development  
 `HTML` | `CSS` | `Tailwind CSS` | `Flask` | `Streamlit` | `Node.js` | `React`  
@@ -32,17 +33,15 @@
 ---
 
 ### 📊 GitHub Stats  
-![Adhyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adhyan-Aditya&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhyan-Aditya&layout=compact&theme=radical)
+![Adhyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmeGa8989OM&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmeGa8989&layout=compact&theme=radical)
 
 ---
 
 ### 🌍 Connect with Me  
-📫 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/adhyanaditya](https://linkedin.com/in/adhyanaditya)  
-📝 **Medium / Blog:** [medium.com/@adhyanaditya](https://medium.com/@adhyanaditya)  
-💻 **Portfolio:** [adhyanaditya.dev](https://adhyanaditya.dev) _(if you have one)_
-
+📫 **Email:** [adhyanaditya88@gmail.com](mailto:adhyanaditya88@gmail.com)  
+💼 **LinkedIn:** [www.linkedin.com/in/adhyan-aditya-a2a48124b/](www.linkedin.com/in/adhyan-aditya-a2a48124b/)  
+📝 **Articles:** [www.geeksforgeeks.org/user/adhyanaditya/contributions/](www.geeksforgeeks.org/user/adhyanaditya/contributions/)  
 ---
 
 ⭐ **“Turning ideas into impact through code, curiosity, and creativity.”**  
