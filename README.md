@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Adhyan
 <div align="center">
 
   <h1 style="color:#FFA500; font-weight:bold;">
