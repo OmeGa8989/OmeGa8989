@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Adhyan
 <div align="center">
 
-  <b>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Adhyan+Aditya!;💻+Developer+%7C+Cloud+Enthusiast;☕+Gaming+%26+Coffee+Explorer;🚀+Building+Secure+AI+Projects!" alt="Typing SVG" />
-  </b>
+<img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FFA500&center=true&vCenter=true&multiline=true&width=700&lines=👋+Hi%2C+I'm+Adhyan+Aditya!;💻+Developer+%7C+Cloud+Enthusiast;☕+Gaming+%26+Coffee+Explorer;🚀+Building+Secure+AI+Projects!" />
 
 </div>
 
@@ -13,7 +11,7 @@
 ---
 
 ### 💡 About Me  
-- 🌱 Currently learning **Cloud Security & Agentic AI **    
+- 🌱 Currently learning **Cloud Security & Agentic AI**    
 - 🤖 Experienced with **DSA**  
 - ☁️ Hands-on with **AWS**  
 - 🧠 Interested in **Production-Grade Development**  
@@ -36,8 +34,7 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Adhyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmeGa8989&show_icons=true&theme=radical)  
+### 📊 Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmeGa8989&layout=compact&theme=radical)
 
 ---
