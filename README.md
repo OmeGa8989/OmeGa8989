@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Adhyan
 <div align="center">
 
-<img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FFA500&center=true&multiline=true&width=800&lines=👋+Hi%2C+I'm+Adhyan+Aditya!;💻+Developer+%7C+Cloud+Enthusiast;☕+Gaming+%26+Coffee+Explorer;🚀+Building+Secure+AI+Projects!" />
-
-<br/>
-
-<strong><font color="#FFA500">👋 Hi, I'm Adhyan Aditya!  •  💻 Developer | Cloud Enthusiast  •  ☕ Gaming & Coffee Explorer</font></strong>
+  <b>
+    <img src="https://readme-typing-svg.demolab.com?font=Momo+Trust+Display&size=23&pause=1000&color=F74A0C&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Adhyan+Aditya!;💻+Developer+%7C+Cloud+Enthusiast;☕+Gaming+%26+Coffee+Explorer;🚀+Building+Secure+AI+Projects!" alt="Typing SVG" />
+  </b>
 
 </div>
+
 
 
 💻 Passionate about **AI, Cloud, and End-to-End Production**  
