@@ -37,7 +37,8 @@
 `AWS` | `Docker` | `TensorFlow` | `scikit-learn` | `MySQL` | `Firebase` | `Power BI`  
 
 #### 🔐 Cybersecurity & Cloud  
-`AWS GuardDuty` | `CloudTrail` | `Vulnerability Assessment` | `Penetration Testing`  
+`AWS GuardDuty` | `CloudTrail` | `Vulnerability Assessment` | `Penetration Testing`
+
 ---
 ### 📊 Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmeGa8989&layout=compact&theme=radical)
