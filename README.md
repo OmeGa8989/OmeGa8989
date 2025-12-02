@@ -50,8 +50,5 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmeGa8989&layout=compact&theme=radical)
-
 ### 🌍 Connect with Me  
 📫 **Email:** [adhyanaditya88@gmail.com](mailto:adhyanaditya88@gmail.com)
