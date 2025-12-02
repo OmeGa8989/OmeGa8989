@@ -40,8 +40,18 @@
 `AWS GuardDuty` | `CloudTrail` | `Vulnerability Assessment` | `Penetration Testing`
 
 ---
-### 📊 Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmeGa8989&layout=compact&theme=radical)
+### 🚀 Languages & Tools  
+
+#### Programming Languages  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
 ---
+
+### 📊 GitHub Stats  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmeGa8989&layout=compact&theme=radical)
+
 ### 🌍 Connect with Me  
 📫 **Email:** [adhyanaditya88@gmail.com](mailto:adhyanaditya88@gmail.com)
